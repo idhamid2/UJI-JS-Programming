@@ -8,3 +8,7 @@ The web application performs the following operations;
 - User can view these generated random points by clicking on the **"View"** button.
 - After displating all points user can perform basic spatial analysis such as **Buffer, Centeriod & Varoni**.
 
+
+
+![Web Application Work Sample](https://github.com/idhamid2/UJI-JS-Programming/blob/main/Case%20Study-III/Case%20Study-III.gif)
+
