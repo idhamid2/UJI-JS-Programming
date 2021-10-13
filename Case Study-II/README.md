@@ -9,3 +9,5 @@ The City's sustainability team hires you, a freelance programmer with experience
 application such a visual tool.
 
 
+![Web Application Work Sample](https://github.com/idhamid2/UJI-JS-Programming/blob/main/Case%20Study-II/Case%20Study-II.gif)
+
